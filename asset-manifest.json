@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/zenai/static/css/main.be739a08.css",
-    "main.js": "/zenai/static/js/main.8ea154b3.js",
-    "static/js/787.8aa6666e.chunk.js": "/zenai/static/js/787.8aa6666e.chunk.js",
+    "main.css": "/zenai/static/css/main.73404324.css",
+    "main.js": "/zenai/static/js/main.829658d9.js",
+    "static/js/787.5443877e.chunk.js": "/zenai/static/js/787.5443877e.chunk.js",
     "static/media/meditate.jpeg": "/zenai/static/media/meditate.e5ddc04abbb8ee98ef2e.jpeg",
     "static/media/yoga.jpeg": "/zenai/static/media/yoga.e97f5fa7658d0de7fc11.jpeg",
     "index.html": "/zenai/index.html",
-    "main.be739a08.css.map": "/zenai/static/css/main.be739a08.css.map",
-    "main.8ea154b3.js.map": "/zenai/static/js/main.8ea154b3.js.map",
-    "787.8aa6666e.chunk.js.map": "/zenai/static/js/787.8aa6666e.chunk.js.map"
+    "main.73404324.css.map": "/zenai/static/css/main.73404324.css.map",
+    "main.829658d9.js.map": "/zenai/static/js/main.829658d9.js.map",
+    "787.5443877e.chunk.js.map": "/zenai/static/js/787.5443877e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be739a08.css",
-    "static/js/main.8ea154b3.js"
+    "static/css/main.73404324.css",
+    "static/js/main.829658d9.js"
   ]
 }
